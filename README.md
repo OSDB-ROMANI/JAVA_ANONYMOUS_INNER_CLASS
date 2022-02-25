@@ -7,8 +7,9 @@ Due soluzioni:
 <li>Dichiaro un oggetto della classe di riferimento</li>
 <li>Creo l'oggetto con la parola rieservata new nome della classe</li>
 <li>Apro le parentisi { } e all'interno devo fare l'override dei metodi che mi occorrono</li>
+<li>In allegato Esempio: daClasse</li>
 <h2>INTERFACCIA DI RIFERIMENTO</h2>
 <li>Dichiaro un oggetto dell'intefaccia voluta</li>
 <li>Creo l'oggetto con la parola rieservata new nome dell'interfaccia</li>
 <li>Apro le parentisi { } e all'interno devo fare l'override di tutti i metodi dell'interfaccia</li>
-In allegato due esempi.
+<li>In allegato Esempio: daInterfaccia</li>
